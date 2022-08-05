@@ -1,0 +1,11 @@
+name: MythologicalCore
+version: '1.0'
+main: com.myth.mythologicalcore.MythologicalCore
+api-version: 1.19
+authors: [ axel5919 ]
+
+commands:
+  summonMjolnir:
+    description: Summoner of mighty Mjolnir
+    usage:
+    permission: op;
